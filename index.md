@@ -11,7 +11,7 @@ Telecom fraud and further security infringements can be contained and minimised 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sagar220887/fraud_detection)
 
-<center><img src="assests/img/fraud_detection.jpeg"/></center>
+<center><img src="assets/img/fraud_detection.jpeg"/></center>
 ---
 
 ## IPL Aution Analysis
