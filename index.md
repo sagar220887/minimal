@@ -1,123 +1,23 @@
+# AI & ML Portfolio
 ---
-layout: AI & ML
+## Machine learning
+
+### Telecom Fraud detection
+
+Telecom fraud and further security infringements can be contained and minimised by enforcing a full end-to-end strategy. Telecom providers and carriers have alert systems in place to warn them of any violations. In addition to the measures that providers take, self-evaluating and staying informed of the device’s security and services can reinforce protection and avoid fraudulent action or threats.
+**Fake and synthetic IDs:** Fraudsters manipulate ID documents by combining information with a decoy identity to create a synthetic ID to bypass detection systems. Detection of these IDs is more formidable since parts of synthetic IDs are legitimate.
+**Virtual SIM cards:** Even though eSIMs – virtual SIM cards – are better protected from cloning or stealing, virtual SIMs are still prone to malware and social engineering attacks.
+**Social engineering attacks:** With the pandemic greatly amplifying the volume and complexity of phishing attacks, more personalized instances such as CEO fraud and spear-phishing attempts are on the rise. Be it via SMS, calls, social engineering, or even using deep fake technology, social engineering attacks are on the rise to steal and misuse secure data.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sagar220887/fraud_detection)
+
+<center><img src="assests/img/fraud_detection.jpeg"/></center>
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## IPL Aution Analysis
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Project 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Project 2
-
-> This is a blockquote following a header.
+> Analysing the pattern of selection of players by the IPL teams
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
